@@ -1,6 +1,6 @@
 {
   "name": "ordered-dict",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An ordered traversable dictionary with mutable ordering (from meteor.js)",
   "keywords": [],
   "dependencies": {
