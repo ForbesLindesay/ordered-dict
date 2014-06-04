@@ -12,4 +12,7 @@ test('OrderedDict', function () {
   assert(dict.first() === 'a');
   assert(dict.next('a') === 'c');
   assert(dict.next('c') === 'b');
+  assert(dict.get('a') === '1');
+  assert(dict.get('c') === '3');
+  assert(dict.get('b') === '2');
 });
