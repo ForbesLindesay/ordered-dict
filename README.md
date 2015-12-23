@@ -3,7 +3,7 @@
 An ordered traversable dictionary with mutable ordering (from meteor.js). It is implemented as a dictionary that contains nodes of a doubly linked list as its values.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/ordered-dict/master.svg)](https://travis-ci.org/ForbesLindesay/ordered-dict)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/ordered-dict.svg)](https://gemnasium.com/ForbesLindesay/ordered-dict)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/ordered-dict.svg)](https://david-dm.org/ForbesLindesay/ordered-dict)
 [![NPM version](https://img.shields.io/npm/v/ordered-dict.svg)](https://www.npmjs.org/package/ordered-dict)
 
 ## Installation
