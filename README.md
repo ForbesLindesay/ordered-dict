@@ -1,5 +1,7 @@
 # ordered-dict
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/ordered-dict.svg)](https://greenkeeper.io/)
+
 An ordered traversable dictionary with mutable ordering (from meteor.js). It is implemented as a dictionary that contains nodes of a doubly linked list as its values.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/ordered-dict/master.svg)](https://travis-ci.org/ForbesLindesay/ordered-dict)
